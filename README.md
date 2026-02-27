@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ahmed Hassan</h1>
 
-<!--
-**Ahmed-Hassan2005/Ahmed-Hassan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student | Backend & Runtime Enthusiast | Problem Solver
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Computer Science student at **Helwan University – Faculty of Computers and Information** (Since September 2024).
+
+I began my programming journey in Secondary 3 with Python, and since then I've been building a strong foundation in software engineering, problem solving, and system-level thinking.
+
+I’m passionate about understanding how things work under the hood — from programming languages and runtime systems to performance optimization and backend architecture.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+</div>
+
+
+
+---
+
+### 🌐 Web Technologies
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+</div>
+
+---
+
+### 🚀 Frameworks & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+</div>
+
+---
+
+### 🗄 Databases
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+</div>
+
+
+---
+
+## 📚 Academic & Self-Learning Journey
+
+- 🐍 Started with Python
+- 🔵 C fundamentals & structured programming
+- 🌐 HTML, CSS, JavaScript
+- 🎮 C# with .NET & Unity Game Engine
+- ☕ Java, SQL & Data Structures
+- ⚡ Competitive Programming with C++ (Codeforces)
+- 🔄 Currently exploring: Advanced JavaScript, TypeScript, Angular & Node.js
+
+---
+
+## 🎯 Interests
+
+- Programming language design & internals  
+- Runtime systems & JIT compilation  
+- Backend development  
+- Performance optimization  
+- Data structures & algorithms  
+
+---
+
+## 💡 Fun Fact
+
+> I don’t just like writing code — I like understanding how things work internally.
+
+---
+
+<p align="center">
+Always learning. Always building. 🚀
+</p>
+
