@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ahmed Hassan</h1>
 
 <p align="center">
-Computer Science Student | Backend & Runtime Enthusiast | Problem Solver
+Computer Science Student | Frontend | Problem Solver
 </p>
 
 ---
@@ -10,9 +10,9 @@ Computer Science Student | Backend & Runtime Enthusiast | Problem Solver
 
 I'm a Computer Science student at **Helwan University – Faculty of Computers and Information** (Since September 2024).
 
-I began my programming journey in Secondary 3 with Python, and since then I've been building a strong foundation in software engineering, problem solving, and system-level thinking.
+I began my programming journey in Secondary 3 with Python, and since then I've been building a strong foundation in software engineering, problem solving, Frontend Devolopement, and system-level thinking.
 
-I’m passionate about understanding how things work under the hood — from programming languages and runtime systems to performance optimization and backend architecture.
+I’m passionate about understanding how things work under the hood — from programming languages and runtime systems to performance optimization and Frontend architecture.
 
 ---
 
@@ -32,6 +32,8 @@ I’m passionate about understanding how things work under the hood — from pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
 </div>
 
 
@@ -56,6 +58,10 @@ I’m passionate about understanding how things work under the hood — from pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
 </div>
 
 ---
@@ -63,7 +69,7 @@ I’m passionate about understanding how things work under the hood — from pro
 ### 🗄 Databases
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" />
 </div>
 
 
@@ -77,17 +83,16 @@ I’m passionate about understanding how things work under the hood — from pro
 - 🎮 C# with .NET & Unity Game Engine
 - ☕ Java, SQL & Data Structures
 - ⚡ Competitive Programming with C++ (Codeforces)
-- 🔄 Currently exploring: Advanced JavaScript, TypeScript, Angular & Node.js
+- 🔄 Currently exploring: Advanced JavaScript, TypeScript, Angular, PHP
 
 ---
 
 ## 🎯 Interests
 
-- Programming language design & internals  
-- Runtime systems & JIT compilation  
-- Backend development  
+- Programming language design & internals
+- Data structures & Algorithms  
 - Performance optimization  
-- Data structures & algorithms  
+- Backend development  
 
 ---
 
