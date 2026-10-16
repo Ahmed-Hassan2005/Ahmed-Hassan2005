@@ -64,7 +64,7 @@ I’m passionate about understanding how things work under the hood — from pro
   <img width="12" />
   <img src="./imgs/angular.png" height="40" />
   <img width="12" />
-  <img src="./imgs/laravel.png" height="40" />
+  <img src="./imgs/.png" height="40" />
 </div>
 
 ---
