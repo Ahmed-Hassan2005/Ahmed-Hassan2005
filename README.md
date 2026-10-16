@@ -27,7 +27,7 @@ I’m passionate about understanding how things work under the hood — from pro
   <img width="12" />
   <img src="./imgs/c++.png" height="40" />
   <img width="12" />
-  <img src="./imgs/c#.png" height="40" />
+  <img src="./imgs/cs.png" height="40" />
   <img width="12" />
   <img src="./imgs/java.png" height="40" />
   <img width="12" />
